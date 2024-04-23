@@ -15,5 +15,5 @@ To compile and run the software, follow these steps:
 
 ## GitHub Repository
 
-[Link to GitHub Repository](https://github.com/ST10345327/recipe-app)
+[Link to GitHub Repository](https://github.com/ST10345327/PROG-POE-ST10345327)
 
